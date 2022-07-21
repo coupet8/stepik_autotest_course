@@ -27,6 +27,12 @@ __Task__
 * run the code
 * take verification code
 ---
+#### Lesson 1.6 Step 11 ####
+__Task__
+* run test with 1st link (success)
+* run test with 2nd link (error)
+* unique selectors 
+---
 #### Lesson 2.1 Step 5 ####
 __Task__
 * open page 
