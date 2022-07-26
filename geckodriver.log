@@ -1,0 +1,15 @@
+1658840949810	geckodriver	INFO	Listening on 127.0.0.1:51253
+1658840952886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQ59bf0"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658840953197	Marionette	INFO	Marionette enabled
+1658840953201	Marionette	INFO	Listening on port 51263
+WebDriver BiDi listening on ws://localhost:51254
+Read port: 51263
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1658840953297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQ59bf0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51254/devtools/browser/4fac3500-2cd4-43ee-af02-c616d63c674e
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1658840956711	Marionette	INFO	Stopped listening on port 51263
